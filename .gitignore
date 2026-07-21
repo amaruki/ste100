@@ -1,0 +1,19 @@
+# Never commit the ASD-STE100 standard, dictionary extracts, or any bulk export of them.
+# Unauthorized redistribution is prohibited by ASD's own copyright notice — see README.md
+# and dictionary/README.md. This applies even to local working copies used for testing.
+*.pdf
+ASD-STE100*
+dictionary/*extract*
+dictionary/*cache*
+dictionary/*dump*
+approved-words.json
+approved-words*.json
+
+# Local/editor/OS noise
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+*.pyc
+.venv/
+venv/
