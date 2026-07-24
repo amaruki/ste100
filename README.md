@@ -1,6 +1,16 @@
 # STE100 technical writing skill
 
+[![skills.sh](https://skills.sh/b/amaruki/ste100)](https://skills.sh/amaruki/ste100)
+
 An agent skill for drafting, revising, and auditing English technical documentation using the controlled-language writing rules of ASD-STE100 (Simplified Technical English). It gives an AI coding/writing agent a workflow, a set of rule summaries, and an audit gate — it does not include, replace, or substitute for the ASD-STE100 standard itself.
+
+## Installation & Discovery
+
+Install this skill using the [`skills`](https://skills.sh) CLI:
+
+```bash
+npx skills add amaruki/ste100
+```
 
 ## What this repository is
 
